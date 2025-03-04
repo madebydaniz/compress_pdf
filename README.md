@@ -6,4 +6,4 @@
 
 03:: pip install -r requirements.txt
 
-04:: python pdfsize.py -i ./pdfs -o ./outputs -r 30
+04:: python pdfsize.py -i ./inputs -o ./outputs -r 30
